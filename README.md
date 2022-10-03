@@ -66,7 +66,7 @@
 <table>
 	<tr>
 		 <td>
-<a href="https://github.com/Rakeshgombi/Hactoberfest-2021/graphs/contributors">
+<a href="https://github.com/Rakeshgombi/Hactoberfest-2022/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Rakeshgombi/Hactoberfest-2021" />
 </a>
        		</td>
