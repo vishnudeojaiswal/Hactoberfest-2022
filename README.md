@@ -67,7 +67,7 @@
 	<tr>
 		 <td>
 <a href="https://github.com/Rakeshgombi/Hactoberfest-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Rakeshgombi/Hactoberfest-2021" />
+  <img src="https://contrib.rocks/image?repo=Rakeshgombi/Hactoberfest-2022" />
 </a>
        		</td>
 	</tr>
