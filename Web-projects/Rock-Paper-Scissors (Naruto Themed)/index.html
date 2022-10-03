@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css" />
+        <link rel="icon" href="./media/logo4.png">
+        <title>Naruto</title>
+    </head>
+    <body>
+        <div id="pre-loader"></div>
+        <!--     <div id="video-div"></div> -->
+        <img id="kakashiwon" class = "toHide result"src="./media/kakashiwon.jpg" alt="">
+        <img id="guywon" class = "toHide result"src="./media/guywon.jpg" alt="">
+        <div id="score_section">
+            <div>  
+                <div id="kscore">0</div>
+                <span>-</span>
+                <div id="gscore">0</div>
+            </div>
+            <div>
+                <div id="msg">
+            </div>
+        </div>
+        </div>
+
+    <div id="play_section">
+        <div id="kakashi_section">
+            <button onclick="playVid()" class=" play_button" id="kakashi_paper">
+                <img src="./media/kakashi_paper.png" alt="" /> </button>
+                <button onclick="playVid()" class=" play_button" id="kakashi_rock">
+                    <img src="./media/kakashi_stone.png" alt="" />  </button>
+                    <button onclick="playVid()" class=" play_button" id="kakashi_scissor">
+                        <img src="./media/kakashi_scissor.png" alt="" />
+                    </button>
+                </div>
+                <div>
+                    <video id="video" src="./media/video.webm" >
+                </div>
+                <div id="guy_section">
+                    <button onclick="playVid()" class="toGlow toHide play_button" id="guy_paper">
+                        <img src="./media/guy_paper.png" alt="" />
+                    </button>
+                    <button onclick="playVid()" class="toGlow toHide play_button" id="guy_stone">
+                        <img src="./media/guy_stone.png" alt="" />
+        </button>
+        <button onclick="playVid()" class="toGlow toHide play_button" id="guy_scissor">
+            <img src="./media/guy_scissor.png" alt="" />
+        </button>
+
+    </div>
+    </div>
+    
+      
+        
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
