@@ -66,14 +66,12 @@
 <table>
 	<tr>
 		 <td>
-<a href="https://github.com/Rakeshgombi/Hactoberfest-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Rakeshgombi/Hactoberfest-2022" />
+<a href="https://github.com/Rakeshgombi/Hactoberfest-2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Rakeshgombi/Hactoberfest-2021" />
 </a>
        		</td>
 	</tr>
 </table>
-
-**Made with ❤ by [contributors-img](https://contrib.rocks).**
 
 **◻ Project Maintainer : Rakesh Gombi [LinkedIn](https://www.linkedin.com/in/rakesh-gombi-8b8412170/) | [GitHub](https://github.com/Rakeshgombi)**
 
